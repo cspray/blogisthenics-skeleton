@@ -1,0 +1,13 @@
+{
+  "name": "cspray/blogisthenics-skeleton",
+  "description": "A skeleton repository for easily getting started with Blogisthenics",
+  "require": {
+    "php": "^8.1",
+    "cspray/blogisthenics": "^0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Acme\\Blog\\": "src"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "layout_directory": "layouts",
+  "output_directory": "_site",
+  "content_directory": "content",
+  "default_layout": "main"
+}
